@@ -75,9 +75,4 @@ Implement persistent storage (e.g., SD card) to log environmental data and state
 Add a remote monitoring interface for real-time performance tracking.
 Credits
 
-This project was developed by Mary Ann Affo as part of the CPE 301 Embedded Systems Design course at the University of Nevada, Reno. The author thanks course instructors and peers for their support and feedback throughout the project.
-
-License
-
-This project is licensed under the MIT License.
-
+This project was developed by Mary Ann Affo as part of the CPE 301 Embedded Systems Design course at the University of Nevada, Reno.
